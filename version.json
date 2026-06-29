@@ -1,0 +1,6 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0",
+  "apkUrl": "https://github.com/Capular/redwinndesports-main-android-public/raw/main/app-debug.apk",
+  "releaseNotes": "Initial release with tournaments lobby, in-app updater, and profile settings."
+}
