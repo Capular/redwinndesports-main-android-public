@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
+  "versionCode": 2,
+  "versionName": "1.1",
   "apkUrl": "https://github.com/Capular/redwinndesports-main-android-public/raw/main/app-debug.apk",
-  "releaseNotes": "Initial release with tournaments lobby, in-app updater, and profile settings."
+  "releaseNotes": "Added new Event Details screen, removed Close button from the sidebar menu, and fixed the Event group filters."
 }
