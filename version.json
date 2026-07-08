@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
+  "versionCode": 7,
+  "versionName": "1.6",
   "apkUrl": "https://github.com/Capular/redwinndesports-main-android-public/raw/main/app-debug.apk",
-  "releaseNotes": "Major Update: Native Academy Subscriptions, fixed QR generation issues, and implemented standalone ZapUPI payments directly in the app!"
+  "releaseNotes": "Update 1.6: Improved in-app updater (installs seamlessly in background), and adjusted monthly training plan durations to 28 days."
 }
