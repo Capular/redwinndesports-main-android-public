@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
+  "versionCode": 8,
+  "versionName": "1.7",
   "apkUrl": "https://github.com/Capular/redwinndesports-main-android-public/raw/main/app-debug.apk",
-  "releaseNotes": "Update 1.6: Improved in-app updater (installs seamlessly in background), and adjusted monthly training plan durations to 28 days."
+  "releaseNotes": "Update 1.7: Added support for checking active academy subscriptions, and a new promotional popup on the dashboard."
 }
