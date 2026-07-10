@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
+  "versionCode": 10,
+  "versionName": "1.9",
   "apkUrl": "https://github.com/Capular/redwinndesports-main-android-public/raw/main/app-debug.apk",
-  "releaseNotes": "Update 1.7: Added support for checking active academy subscriptions, and a new promotional popup on the dashboard."
+  "releaseNotes": "Update 1.9: Fixed payment system — wallet top-up and UPI QR payments now work correctly. Includes security improvements and faster payment status confirmation."
 }
