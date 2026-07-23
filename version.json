@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "1.12",
+  "versionCode": 14,
+  "versionName": "1.13",
   "apkUrl": "https://github.com/Capular/redwinndesports-main-android-public/raw/main/app-debug.apk",
-  "releaseNotes": "Hotfix: Fixed package parsing error during update by restoring the correct signature format."
+  "releaseNotes": "Hotfix: Fixed JSON parsing crash for Vega Academy payment errors and fixed Auth compile issues."
 }
