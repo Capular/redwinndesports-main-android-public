@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "1.18",
+  "versionCode": 20,
+  "versionName": "1.19",
   "apkUrl": "https://raw.githubusercontent.com/Capular/redwinndesports-main-android-public/main/app-debug.apk",
-  "releaseNotes": "• Fixed existing account onboarding loop - accounts onboarded on web skip onboarding automatically\n• Canonical multi-ID profile merging across historical UIDs and email aliases\n• Connected directly to production VPS backend with non-www endpoints"
+  "releaseNotes": "• Fixed Rupee (₹) symbol rendering and verified account badge\n• Modernized wallet hero card with gradient and account balance icon\n• Snappy, responsive bottom quick nav bar with AccountBalanceWallet icon\n• Instant background update detection and ample scroll padding"
 }
