@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "1.16",
+  "versionCode": 18,
+  "versionName": "1.17",
   "apkUrl": "https://raw.githubusercontent.com/Capular/redwinndesports-main-android-public/main/app-debug.apk",
-  "releaseNotes": "• Authentic responsive esports Onboarding matching web portal\n• Automatic email-to-username suggestion & 10-digit mobile verification\n• Dynamic MongoDB active games selection\n• Full VPS architecture migration and update loop fix"
+  "releaseNotes": "• Fixed existing account onboarding loop - accounts onboarded on web skip onboarding automatically\n• Canonical multi-ID profile merging across historical UIDs and email aliases\n• Responsive minimalist esports onboarding flow matching web portal"
 }
