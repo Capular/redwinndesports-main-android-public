@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.14",
+  "versionCode": 16,
+  "versionName": "1.15",
   "apkUrl": "https://raw.githubusercontent.com/Capular/redwinndesports-main-android-public/main/app-debug.apk",
-  "releaseNotes": "Hotfix: Fixed update loop bug and improved download reliability."
+  "releaseNotes": "Migrated architecture off Firestore to VPS MongoDB backend. Fixed update check loop and improved performance."
 }
