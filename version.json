@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "1.22",
+  "versionCode": 24,
+  "versionName": "1.23",
   "apkUrl": "https://raw.githubusercontent.com/Capular/redwinndesports-main-android-public/main/app-debug.apk",
-  "releaseNotes": "• Apple-Grade Continuous Sliding Glassmorphic Pill Navigation: Ultra-clean icon-only dock with fluid kinetic spring physics (dampingRatio 0.74f, stiffness 380f)\n• Zero-Crash Navigation Architecture: Hardware-layer alpha rendering via graphicsLayer and safe haptic feedback drivers\n• Instant Direct UPI QR Tournament Registration: Dynamic QR generator, 300s countdown timer, status polling, and deep linking\n• High-Performance Redwinnd Native Core (Rust FFI Bridge): Zero-GC cryptographic nonces, anti-tampering verification, and fast bracket math\n• Tournament Readiness Board & Badges: 5-point verification tracker and tournament-ready badges"
+  "releaseNotes": "• Pixel-Grade UI Redesign: Native edge-to-edge insets, dynamic top bar, and fluid navigation transitions\n• Redesigned Bottom Navigation Bar & Drawer: Streamlined navigation with continuous sliding animations\n• Direct Room Credentials & Slot Board: Live room credentials with 1-tap copy and real-time slot tracking\n• Enhanced Forced Update Gate: Streamlined in-app update experience with real-time download progress\n• Performance & Theme Optimization: Hardware-accelerated motion curves and refined dark/light color palette"
 }
