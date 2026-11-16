@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "1.24",
+  "versionCode": 26,
+  "versionName": "1.25",
   "apkUrl": "https://raw.githubusercontent.com/Capular/redwinndesports-main-android-public/main/app-debug.apk",
-  "releaseNotes": "• Pixel-Grade UI Redesign: Native edge-to-edge insets, dynamic top bar, and fluid navigation transitions\n• Redesigned Bottom Navigation Bar & Drawer: Streamlined navigation with continuous sliding animations\n• Direct Room Credentials & Slot Board: Live room credentials with 1-tap copy and real-time slot tracking\n• Enhanced Forced Update Gate: Streamlined in-app update experience with real-time download progress\n• Performance & Theme Optimization: Hardware-accelerated motion curves and refined dark/light color palette"
+  "releaseNotes": "• Integrated Theme Switcher: Seamless dark & light mode toggling with custom animated switch\n• Complete Screen Polish: Modernized card styling, status badges, and enhanced drawer navigation\n• Direct Room Credentials & Slot Board: Live room credentials with 1-tap copy and real-time slot tracking\n• Enhanced Forced Update Gate: Streamlined in-app update experience with real-time download progress\n• Performance & Motion Optimization: Hardware-accelerated motion curves and refined dark/light color palette"
 }
