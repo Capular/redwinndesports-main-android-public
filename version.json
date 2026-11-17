@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "1.27",
+  "versionCode": 29,
+  "versionName": "1.28",
   "apkUrl": "https://raw.githubusercontent.com/Capular/redwinndesports-main-android-public/main/app-debug.apk",
-  "releaseNotes": "• Platform & Match Sync: Real-time tournament slot management, credentials verification, and live match updates\n• Seamless Payment Gateway: Instant PhonePe UPI QR generation and automated wallet settlement\n• Integrated Theme Switcher: Seamless dark & light mode toggling with custom animated switch\n• Complete Screen Polish: Modernized card styling, status badges, and enhanced drawer navigation\n• Direct Room Credentials & Slot Board: Live room credentials with 1-tap copy and real-time slot tracking\n• Enhanced Forced Update Gate: Streamlined in-app update experience with real-time download progress\n• Performance & Motion Optimization: Hardware-accelerated motion curves and refined dark/light color palette"
+  "releaseNotes": "• Live Match & Tournament Sync: Real-time slot management, credentials verification, and interactive home header\n• Native Notifications Engine: Push messaging integration and dedicated notification center\n• Haptic Feedback & Gesture Control: Tactile feedback across interactive buttons, cards, and bottom navigation\n• In-App Update Experience: Streamlined update panel with live download and install progress\n• Unified Payment Flow: Fast UPI QR generation and instant automated wallet settlement\n• Theme & UI Refinements: Apple-inspired glassmorphism styling, floating navigation, and dark/light mode polish"
 }
