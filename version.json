@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "1.28",
+  "versionCode": 30,
+  "versionName": "1.29",
   "apkUrl": "https://raw.githubusercontent.com/Capular/redwinndesports-main-android-public/main/app-debug.apk",
-  "releaseNotes": "• Live Match & Tournament Sync: Real-time slot management, credentials verification, and interactive home header\n• Native Notifications Engine: Push messaging integration and dedicated notification center\n• Haptic Feedback & Gesture Control: Tactile feedback across interactive buttons, cards, and bottom navigation\n• In-App Update Experience: Streamlined update panel with live download and install progress\n• Unified Payment Flow: Fast UPI QR generation and instant automated wallet settlement\n• Theme & UI Refinements: Apple-inspired glassmorphism styling, floating navigation, and dark/light mode polish"
+  "releaseNotes": "• Redesigned Edit Profile Dialog: Streamlined gamer identity modal, avatar preview, and social links\n• Baseline Profile Optimizations: Instantaneous cold startup, 60fps frame rendering, and zero stutter\n• Settled State Engine: Smooth data stabilization, tab transitions, and match credentials sync\n• Native Notifications Engine: Dedicated notification inbox and push alerts\n• Haptic Feedback & Touch Response: Physical haptics across navigation pill and interactive cards\n• Theme & Visual Polish: Apple-inspired floating navigation and dark/light mode refinement"
 }
