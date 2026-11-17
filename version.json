@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "1.31",
+  "versionCode": 33,
+  "versionName": "1.32",
   "apkUrl": "https://raw.githubusercontent.com/Capular/redwinndesports-main-android-public/main/app-debug.apk",
-  "releaseNotes": "• Scrim Modes Grid Polish: Clean left-aligned 2-column grid layout for competitive scrim game modes\n• Vega Academy Pro Pricing: Official Vega Pro Mentorship Plan pricing (Monthly & Weekly) with instant UPI checkout\n• Visual & Typography Tuning: Refined card borders, scoreboard numeral hierarchy, and tactile feedback\n• Stability & Sync: Optimized backend state synchronization and payment order settlement"
+  "releaseNotes": "• Frictionless Scrim Registration: Create teams and enter player IGNs directly inside the registration sheet with zero web friction\n• Instant Solo Entry: Streamlined 3-step solo flow (Solo Entry -> Slot Selection -> Confirm) with auto IGN prefilling\n• Unified Payment Experience: Standardized Vega Academy Mentorship checkout with universal UPI QR & App modal\n• Navigation & UI Polish: Modernized sidebar drawer layout, player identity badge, and tactile active indicators"
 }
