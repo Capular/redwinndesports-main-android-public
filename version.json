@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "1.32",
+  "versionCode": 34,
+  "versionName": "1.33",
   "apkUrl": "https://raw.githubusercontent.com/Capular/redwinndesports-main-android-public/main/app-debug.apk",
-  "releaseNotes": "• Frictionless Scrim Registration: Create teams and enter player IGNs directly inside the registration sheet with zero web friction\n• Instant Solo Entry: Streamlined 3-step solo flow (Solo Entry -> Slot Selection -> Confirm) with auto IGN prefilling\n• Unified Payment Experience: Standardized Vega Academy Mentorship checkout with universal UPI QR & App modal\n• Navigation & UI Polish: Modernized sidebar drawer layout, player identity badge, and tactile active indicators"
+  "releaseNotes": "• Cross-Platform Team Sync: Web-created teams now sync instantly in the Android app via canonical multi-ID resolution\n• Smooth Sheet Dismissal: Fluid swipe-down animation and tactile drag handle on the tournament registration sheet\n• Vega Academy Payment Routing: Directs membership checkouts straight to academy subscriptions with zero false wallet credits\n• Streamlined Navigation: Cleaned duplicate Vega Academy headers and removed redundant branding from sidebar drawer"
 }
