@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
-  "versionName": "1.34",
+  "versionCode": 36,
+  "versionName": "1.35",
   "apkUrl": "https://raw.githubusercontent.com/Capular/redwinndesports-main-android-public/main/app-debug.apk",
-  "releaseNotes": "• Server-Synchronized Slots: Exact IST time zone alignment matching the tournament server so slot times and cutoff dates never mismatch\n• Slot Selection & Last Call Badges: Clear room cutoff indicators and sorted time slots matching web rules\n• Registrations Screen Revamp: Enhanced my registrations view, room credentials reveal, and real-time match status\n• Tournament State & Navigation: Seamless transition between tournaments and player registration hub"
+  "releaseNotes": "• Secure Action Nonce Verification: Live nonce issuance for registration prep & commit, eliminating nonce expiration and stale request errors\n• Accurate Player Attachment: Correctly maps canonical user IDs during team prep so all teammates attach to the match lobby\n• Humanized Server Error Diagnostics: Clear, actionable error messages for slot availability, clock skew, and expired requests\n• Real-Time Network Sync: Optimized background mutation handling and cache consistency"
 }
