@@ -1,6 +1,6 @@
 {
-  "versionCode": 40,
-  "versionName": "1.39",
+  "versionCode": 41,
+  "versionName": "1.40",
   "apkUrl": "https://raw.githubusercontent.com/Capular/redwinndesports-main-android-public/main/app-debug.apk",
-  "releaseNotes": "• Dynamic Wallet vs UPI QR Registration: Intelligently detects wallet balance — if sufficient, pay directly from wallet or choose instant UPI QR; if insufficient, wallet payment is cleanly hidden with dedicated UPI QR flow\n• Auto-Commit Slot Fix: Resolved MongoDB immutable field conflict and streamlined room slot assignment pipeline\n• Registration UI & Messaging Polish: Clear transparent breakdown of entry fee and wallet balance status"
+  "releaseNotes": "• Registrations Visibility Fix: Captains & team managers can now seamlessly view all team registrations in 'My Matches' / 'Registrations' hub\n• Instant Auto-Commit Resolution: Fixed success flag deserialization so successful registrations immediately transition to confirmation step\n• Slot Confirmed Action: Direct 'View in Registrations' button when a team is confirmed in a slot"
 }
