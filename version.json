@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "1.35",
+  "versionCode": 38,
+  "versionName": "1.37",
   "apkUrl": "https://raw.githubusercontent.com/Capular/redwinndesports-main-android-public/main/app-debug.apk",
-  "releaseNotes": "• Secure Action Nonce Verification: Live nonce issuance for registration prep & commit, eliminating nonce expiration and stale request errors\n• Accurate Player Attachment: Correctly maps canonical user IDs during team prep so all teammates attach to the match lobby\n• Humanized Server Error Diagnostics: Clear, actionable error messages for slot availability, clock skew, and expired requests\n• Real-Time Network Sync: Optimized background mutation handling and cache consistency"
+  "releaseNotes": "• Ergonomic Navigation Drawer: Natural visual hierarchy pinning core destinations under profile and system tools at the thumb rest\n• Clean Vertical Layout: Dynamic height absorption preventing middle-screen floating elements on modern tall aspect ratios\n• Enhanced Action Nonce Security: Live token validation preventing stale requests during competitive tournament signups\n• Unified Button Design System: Polished tactile response and consistent interactive surfaces across all modules"
 }
