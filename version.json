@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "1.38",
+  "versionCode": 40,
+  "versionName": "1.39",
   "apkUrl": "https://raw.githubusercontent.com/Capular/redwinndesports-main-android-public/main/app-debug.apk",
-  "releaseNotes": "• Registrations Hub Complete Overhaul: Streamlined match cards, real-time room credentials access, and countdown timers\n• Unified Segmented Controls: Modern tab switching and fluid transition animations across tournament and registration views\n• Enhanced Registration Robustness: Resilient team prep and auto-commit pipeline with enhanced error reporting\n• Shell & Navigation Polish: Bottom bar integration and coming soon placeholders for emerging game modes"
+  "releaseNotes": "• Dynamic Wallet vs UPI QR Registration: Intelligently detects wallet balance — if sufficient, pay directly from wallet or choose instant UPI QR; if insufficient, wallet payment is cleanly hidden with dedicated UPI QR flow\n• Auto-Commit Slot Fix: Resolved MongoDB immutable field conflict and streamlined room slot assignment pipeline\n• Registration UI & Messaging Polish: Clear transparent breakdown of entry fee and wallet balance status"
 }
