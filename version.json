@@ -1,6 +1,6 @@
 {
-  "versionCode": 53,
-  "versionName": "1.52",
+  "versionCode": 54,
+  "versionName": "1.53",
   "apkUrl": "https://raw.githubusercontent.com/Capular/redwinndesports-main-android-public/main/app-debug.apk",
-  "releaseNotes": "• Push Notifications & Inbox: Real-time FCM notifications with in-app inbox, channel categorization (Match, Payment, Team, News), and direct navigation\n• Intelligent Wallet Payment Tracking: Auto-dismisses abandoned payments, adds quiet background settlement check for active top-ups, and avoids stale payment modal popups\n• Match Day Persistence: Tournament registration active tracking in 'My matches' with live room details and countdowns\n• System Audit Verified: Verified 100% end-to-end dry-run compliance on payment settlement, hold auto-refunds, and conflict detection"
+  "releaseNotes": "• In-App Seamless Updater & Forced Update Gate: Live delta binary patching, automatic update check, background download with progress tracking, and resilient install prompts\n• Push Notifications & Inbox: Real-time FCM notifications with in-app inbox, channel categorization (Match, Payment, Team, News), and direct navigation\n• Intelligent Wallet Payment Tracking: Auto-dismisses abandoned payments, adds quiet background settlement check for active top-ups, and avoids stale payment modal popups\n• Match Day Persistence: Tournament registration active tracking in 'My matches' with live room details and countdowns"
 }
