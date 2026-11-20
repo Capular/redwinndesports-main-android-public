@@ -1,6 +1,6 @@
 {
-  "versionCode": 41,
-  "versionName": "1.40",
+  "versionCode": 53,
+  "versionName": "1.52",
   "apkUrl": "https://raw.githubusercontent.com/Capular/redwinndesports-main-android-public/main/app-debug.apk",
-  "releaseNotes": "• Registrations Visibility Fix: Captains & team managers can now seamlessly view all team registrations in 'My Matches' / 'Registrations' hub\n• Instant Auto-Commit Resolution: Fixed success flag deserialization so successful registrations immediately transition to confirmation step\n• Slot Confirmed Action: Direct 'View in Registrations' button when a team is confirmed in a slot"
+  "releaseNotes": "• Push Notifications & Inbox: Real-time FCM notifications with in-app inbox, channel categorization (Match, Payment, Team, News), and direct navigation\n• Intelligent Wallet Payment Tracking: Auto-dismisses abandoned payments, adds quiet background settlement check for active top-ups, and avoids stale payment modal popups\n• Match Day Persistence: Tournament registration active tracking in 'My matches' with live room details and countdowns\n• System Audit Verified: Verified 100% end-to-end dry-run compliance on payment settlement, hold auto-refunds, and conflict detection"
 }
