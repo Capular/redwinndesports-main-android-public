@@ -1,6 +1,16 @@
 {
-  "versionCode": 54,
-  "versionName": "1.53",
+  "versionCode": 55,
+  "versionName": "1.54",
   "apkUrl": "https://raw.githubusercontent.com/Capular/redwinndesports-main-android-public/main/app-debug.apk",
-  "releaseNotes": "• In-App Seamless Updater & Forced Update Gate: Live delta binary patching, automatic update check, background download with progress tracking, and resilient install prompts\n• Push Notifications & Inbox: Real-time FCM notifications with in-app inbox, channel categorization (Match, Payment, Team, News), and direct navigation\n• Intelligent Wallet Payment Tracking: Auto-dismisses abandoned payments, adds quiet background settlement check for active top-ups, and avoids stale payment modal popups\n• Match Day Persistence: Tournament registration active tracking in 'My matches' with live room details and countdowns"
+  "apkSha256": "32ed103c7da113b8fa7a80dd4dafa2ca0ecacee34ddeac6cdfe2f029807fc764",
+  "releaseNotes": "• In-App User Activity & Analytics Telemetry: Real-time non-blocking activity tracking (screens, tournaments, wallet, profile, app foreground) with 30-day automatic rolling retention\n• High Space-Efficiency: Sub-millisecond indexed activity queries with MongoDB TTL auto-pruning\n• In-App Seamless Updater: Sub-2MB binary delta updates via rw_delta for lightning-fast upgrades",
+  "patches": [
+    {
+      "fromSha256": "0d4ee9c56bdabb42a986d8089cc72e607fe6441ce26ef20496603a6e5a71e348",
+      "toSha256": "32ed103c7da113b8fa7a80dd4dafa2ca0ecacee34ddeac6cdfe2f029807fc764",
+      "sha256": "e6d9b2852d0c0d0621a8030065d834407d4b64b2134f698784134822fff407bb",
+      "size": 1299759,
+      "url": "https://raw.githubusercontent.com/Capular/redwinndesports-main-android-public/main/patches/update_54_to_55.patch"
+    }
+  ]
 }
