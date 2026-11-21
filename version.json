@@ -1,23 +1,23 @@
 {
-  "versionCode": 56,
-  "versionName": "1.55",
+  "versionCode": 57,
+  "versionName": "1.56",
   "apkUrl": "https://raw.githubusercontent.com/Capular/redwinndesports-main-android-public/main/app-debug.apk",
-  "apkSha256": "89cdca7811185862e6e75307a956f3da764f8761d1e48dc8ff38442cecb1a046",
-  "releaseNotes": "• Event Page Transitions: Smooth shared-container card expansion and staggered section entrances\n• Event Registration Integration: Direct tournament registration flow from event details\n• Rescheduled Lobby Support: Live slot updates and duplicate-safe registration for rescheduled scrims\n• Admin Controls: Dedicated lobby reschedule modal with live chat broadcasts\n• In-App Delta Updater: Fast ~1.6MB binary delta update via rw_delta",
+  "apkSha256": "6279f265ef9c786e638657a7c59bdd2e0288917aa3d62002314b026763071ecf",
+  "releaseNotes": "• Scrim Rooms Architecture: Real-time room slot tracking, live player counts, and enhanced scrim card previews\n• UI Polish: Refined template cards and event transitions\n• In-App Delta Updater: Fast ~1.5MB binary delta update via rw_delta",
   "patches": [
+    {
+      "fromSha256": "89cdca7811185862e6e75307a956f3da764f8761d1e48dc8ff38442cecb1a046",
+      "toSha256": "6279f265ef9c786e638657a7c59bdd2e0288917aa3d62002314b026763071ecf",
+      "sha256": "7acbe5606f144099250dff5804a0ed160a36e9562f290fc8ae09c7395fa667e5",
+      "size": 1529326,
+      "url": "https://raw.githubusercontent.com/Capular/redwinndesports-main-android-public/main/patches/update_56_to_57.patch"
+    },
     {
       "fromSha256": "32ed103c7da113b8fa7a80dd4dafa2ca0ecacee34ddeac6cdfe2f029807fc764",
       "toSha256": "89cdca7811185862e6e75307a956f3da764f8761d1e48dc8ff38442cecb1a046",
       "sha256": "457237db2e3e75eca989b4512efed8d3a07e70850f06676a1aabe23d3125965f",
       "size": 1684227,
       "url": "https://raw.githubusercontent.com/Capular/redwinndesports-main-android-public/main/patches/update_55_to_56.patch"
-    },
-    {
-      "fromSha256": "0d4ee9c56bdabb42a986d8089cc72e607fe6441ce26ef20496603a6e5a71e348",
-      "toSha256": "32ed103c7da113b8fa7a80dd4dafa2ca0ecacee34ddeac6cdfe2f029807fc764",
-      "sha256": "e6d9b2852d0c0d0621a8030065d834407d4b64b2134f698784134822fff407bb",
-      "size": 1299759,
-      "url": "https://raw.githubusercontent.com/Capular/redwinndesports-main-android-public/main/patches/update_54_to_55.patch"
     }
   ]
 }
